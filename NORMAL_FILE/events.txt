@@ -1,0 +1,11 @@
+CariereInIT,CariereInIT este un eveniment organizat de Societatea Hermes care se adreseaza tuturor studentilor si persoanelor pasionate de domeniul IT. (dezvoltare profesionala),https://cariereinit.ro/,142,14,3,2022,18,30
+hermesHackathon,hermesHackathon is aimed at students freelancers or just anyone who’s passionate about programming and wants to contribute to a better society (dezvoltare profesionala).,https://hackathon.societatea-hermes.ro/,52,4,4,2022,15,30
+TEC Summer Practice 2022,Summer Practice Ready to define your present and future?(dezvoltare profesionala),http://www.cs.ubbcluj.ro/tec-summer-practice-2022/,201,1,5,2022,13,0
+UNbreakable Romania,Participa la cel mai complex program de securitate cibernetica din tara(dezvoltare profesionala),https://unbreakable.ro/,51,31,5,2022,10,0
+TREI SURORI @ Teatrul National Cluj-Napoca,La 120 de ani de la premiera moscovita a piesei lui Cehov Trei surori este pentru prima oara montata pe scena Teatrului National din Cluj (entertainment),https://www.clujlife.com/eveniment/trei-surori-teatrul-national-cluj-napoca-3/,149,24,3,2022,7,0
+Eros Ramazzotti in Cluj,Emotions and music. These are the words that Eros Ramazzotti himself chose to sum up in a post on his Facebook account the concert he gave on Thursday evening in Cluj.(entertainment),https://www.events.ro/en/events/eros-ramazzotti-in-cluj/,30,1,6,2022,20,30
+Pink Martini ft. China Forbes,Concert(entertainment),https://www.events.ro/evenimente/pink-martini-ft-china-forbes-sala-palatului-si-fratelli-studios-9-si-10-aprilie-2022/,50,5,4,2022,18,30
+Noul an universitar,Deschidere (dezvoltare profesionala),https://www.ubbcluj.ro/ro/,1501,1,10,2022,12,15
+Programare avansata with mr. G,Cerc(dezvoltare profesionala),http://www.cs.ubbcluj.ro/,25,25,3,2022,10,0
+CFR Cluj vs FCSB,Fotbal(sport),https://www.uefa.com/uefachampionsleague/,15011,29,3,2022,19,45
+dsadas,dadsa,dsada,0,20,2,2023,23,40
