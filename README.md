@@ -1,24 +1,23 @@
-# Assignment 03
-## Requirements
-- The application must be implemented in C++ and use layered architecture.
-- Provide tests and specifications.
-- Have at least 10 entities in your memory repository.
-- Validate all input data.
-- Handle the following situations:
-    - If an entity that already exists is added, a message is shown and the entity is not stored. You must decide what makes an entity unique.
+# Life After School
+## Specifications
+- The application is implemented in C++ and use layered architecture.
+- Tests and specifications are provided.
+- There are at least 10 entities in your memory repository.
+- All input data is validated.
+- The following situations are handled:
+    - If an entity that already exists is added, a message is shown and the entity is not stored.
     - If the user tries to update/delete an entity that does not exist, a message will be shown and there will be no effect on the list of entities.
-- Use STL vectors and algorithms.
-- Store data in a text file. When the program starts, entities are read from the file. Modifications made during program execution are stored in the file. Implement this using the iostream library. Create insertion and extraction operators for your entities and use these when reading/writing to files or the console.
-- Use exceptions to signal errors.
-- When the application starts, the user should choose the type of file between CSV or HTML. Depending on the type, the application will save the list in the correct format.
-- Add a new command, allowing the user to see the events.
-- Create a graphical user interface using the Qt framework. 
-- Create a graphical representation of the data in your application.
-- Add multiple undo and redo functionality for the add, remove, and update operations. Implement this functionality using inheritance and polymorphism. You will have Undo and Redo buttons on the GUI, as well as a key combination to undo and redo the operations.
-- Show the contents of the events using a table view. You must use the Qt View/Model components (QTableView). Create your own model – a class which inherits from QAbstractTableModel. This window will be opened from your GUI main window.
+- STL vectors and algorithms are used.
+- Data is stored in a text file. When the program starts, entities are read from the file. Modifications made during program execution are stored in the file.
+- Exceptions are used to signal errors.
+- When the application starts, the user can choose the type of file between CSV or HTML. Depending on the type, the application saves the list in the correct format.
+- The user is able to see the events.
+- A graphical user interface is provided using the Qt framework. 
+- Graphical representation of the data is shown in the application.
+- Multiple undo and redo functionality for the add, remove, and update operations is provided, using inheritance and polymorphism.
+- The contents of the events are shown using a table view, with the help of the Qt View/Model components (QTableView)
 
-## Problem Statement
-## Life After School
+## Description
 Lectures, seminars and labs ... school in general must be taken seriously; BUT so must be your social life and leisure time. To manage the latter and be always informed about the interesting events happening in your city you will implement a software application. The application can be used in two modes: administrator and user. When the application is started, it will offer the option to choose the mode.\
 **Administrator mode:** The application will have a database which holds all the interesting events in your area. You must be able to update the database, meaning: add a new event, delete an event and update the information of an event. Each **Event** has a `title`, a `description`, a `date and time`, a `number of people` who are going and a `link` towards the online resource containing the event. The administrators will also have the option to see all the events in the database.\
 **User mode:** A user can create a list with the events that he/she is interested in. The application will allow the user to:
